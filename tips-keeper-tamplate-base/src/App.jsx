@@ -4,12 +4,13 @@ import Header from "./Header";
 import Note from "./Note";
 
 function App(){
-    return
-    <>
+    return (
+        <>
         <Header />
         <Note />
         <Footer />
     </>
+    )
 }
 
 export default App;
